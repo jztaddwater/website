@@ -1,0 +1,1 @@
+[09-Mar-2013 16:10:57] PHP Fatal error:  Call to undefined function  get_header() in /home2/stephce1/public_html/stephanieliu/wp-content/themes/landscape/index.php on line 15

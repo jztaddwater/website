@@ -14,7 +14,7 @@ get_header(); ?>
 			<a href="http://www.linkedin.com/in/stephofliu" target="_blank" class="linkedin-icon"><i class="fa fa-linkedin fa-lg"></i></a>
 			<a href="mailto:stephofliu@gmail.com" class="email-icon"><i class="fa fa-envelope-o fa-lg"></i></a>
 		</div>
-		<p class="lowercase"><span class="cross-out">Bio major.</span></br>Front-end developer at <a href="http://rjmetrics.com" class="rjmetrics-color normal-transform">RJMetrics</a>.<br/>Data-driven problem solver.</p>
+		<p class="lowercase"><span class="cross-out">Bio major.</span></br>Front-end ninja at <a href="http://rjmetrics.com" class="rjmetrics-color normal-transform">RJMetrics</a>.<br/>Data-driven problem solver.</p>
 	</div>
 </section>
 
